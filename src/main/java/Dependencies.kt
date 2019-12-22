@@ -19,6 +19,11 @@ object Dependencies {
     val okHttpInterceptor = "com.squareup.okhttp3:logging-interceptor:${Version.okHttp}"
     val okHttp = "com.squareup.okhttp3:okhttp:${Version.okHttp}"
     val gson = "com.google.code.gson:gson:${Version.gson}"
+    val moshi = "com.squareup.moshi:moshi:${Version.moshi}"
+    val moshiAdapter = "com.squareup.retrofit2:converter-moshi:${Version.moshiAdapter}"
+    val moshiKapt = "com.squareup.moshi:moshi-kotlin-codegen:${Version.moshi}"
+
+    val picasso = "com.squareup.picasso:picasso:${Version.picasso}"
 
     //RX Java
     val rxAndroid = "io.reactivex.rxjava2:rxandroid:${Version.rx.android}"

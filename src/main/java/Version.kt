@@ -1,5 +1,8 @@
 object Version {
     val gson = "2.8.5"
+    val moshi = "1.9.2"
+    val moshiAdapter = "2.4.0"
+    val picasso = "2.71828"
     val okHttp = "4.2.0"
     val multidex = "2.0.1"
     val kotlin = "1.3.61"
