@@ -4,5 +4,7 @@ data class AndroidX(
     val lifeCycle: String = "2.1.0",
     val core: String = "1.1.0",
     val viewModel: String = "2.1.0",
-    val navigation: String = "2.1.0"
+    val navigation: String = "2.1.0",
+    val jUnit: String = "1.0.0",
+    val espresso: String = "3.1.1"
 )

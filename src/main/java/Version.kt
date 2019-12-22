@@ -7,12 +7,11 @@ object Version {
     val jFrogPluginGradle = "1.4"
     val mavenPluginGradle = "2.1"
     val googleService = "4.3.3"
-    val sdkBuild = Sdk()
+    val defaultConfig = DefaultConfig()
     val androidX = AndroidX()
     val dagger = "2.23.2"
     val javaX = "10.0-b28"
     val jUnit = "4.12"
-    val espresso = "3.1.1"
     val retrofit = "2.6.2"
     val rx = RX()
     val materialDialog = "3.1.1"

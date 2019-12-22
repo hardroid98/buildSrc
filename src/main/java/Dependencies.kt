@@ -32,5 +32,6 @@ object Dependencies {
     val materialDialog = "com.afollestad.material-dialogs:core:${Version.materialDialog}"
 
     val jUnit = "junit:junit:${Version.jUnit}"
-    val espresso = "androidx.test.espresso:espresso-core:${Version.espresso}"
+    val jUnitAndroidX = "androidx.test.ext:junit:${Version.androidX.jUnit}"
+    val espresso = "androidx.test.espresso:espresso-core:${Version.androidX.espresso}"
 }
