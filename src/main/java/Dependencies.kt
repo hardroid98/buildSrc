@@ -32,7 +32,9 @@ object Dependencies {
 
     //Dagger
     val dagger = "com.google.dagger:dagger:${Version.dagger}"
+    val daggerAndroid = "com.google.dagger:dagger-android:${Version.dagger}"
     val daggerCompiler = "com.google.dagger:dagger-compiler:${Version.dagger}"
+    val daggerAndroidCompiler = "com.google.dagger:dagger-android-processor:${Version.dagger}"
     val javaXAnnotation = "org.glassfish:javax.annotation:${Version.javaX}"
     val materialDialog = "com.afollestad.material-dialogs:core:${Version.materialDialog}"
 

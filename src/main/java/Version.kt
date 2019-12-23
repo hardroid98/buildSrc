@@ -12,7 +12,7 @@ object Version {
     val googleService = "4.3.3"
     val defaultConfig = DefaultConfig()
     val androidX = AndroidX()
-    val dagger = "2.23.2"
+    val dagger = "2.21"
     val javaX = "10.0-b28"
     val jUnit = "4.12"
     val retrofit = "2.6.2"
